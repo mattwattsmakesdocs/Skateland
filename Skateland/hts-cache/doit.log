@@ -1,0 +1,8 @@
+-qwr3C2%Pns2u1k%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "en, *" https://preview.shorthand.com/lR1u978RLL7FUJAn -O1 "F:\Masters\Photo\Shorthand\Skateland" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Mon, 24 Jun 2024 17:14:42, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

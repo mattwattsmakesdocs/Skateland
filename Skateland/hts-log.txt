@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Jun 2024 17:14:42 at https://preview.shorthand.com/lR1u978RLL7FUJAn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr3C2%Pns2u1k%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://preview.shorthand.com/lR1u978RLL7FUJAn -O1 "F:\Masters\Photo\Shorthand\Skateland" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:14:43	Warning: 	Note: due to https://preview.shorthand.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 9 links scanned, 7 files written (22387103 bytes overall) [21727795 bytes received at 2414199 bytes/sec], 857684 bytes transferred using HTTP compression in 5 files, ratio 22%, 1.1 requests per connection
+(No errors, 1 warnings, 0 messages)
